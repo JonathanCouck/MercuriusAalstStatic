@@ -52,6 +52,10 @@
             "MudBlazor": {
               "target": "Package",
               "version": "[6.1.9, )"
+            },
+            "PublishSPAforGitHubPages.Build": {
+              "target": "Package",
+              "version": "[2.0.2, )"
             }
           },
           "imports": [
