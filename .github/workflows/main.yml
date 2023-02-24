@@ -17,7 +17,7 @@ jobs:
         run: dotnet workload install wasm-tools
         
       - name: Publish .NET Core Project
-        run: dotnet publish Web/Web.csproj -c:Release -p:GHPages=true -o dist/Web --nologo
+        run: dotnet publish MercuriusAalstWebsite/MercuriusAalstWebsite.csproj -c:Release -p:GHPages=true -o dist/MercuriusAalstWebsite --nologo
       - name: Commit wwwroot to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
