@@ -1,0 +1,13 @@
+﻿@page "/praesidium"
+@using MercuriusAalstWebsite.Models;
+
+<PageTitle>Mercurius Aalst - Praesidium</PageTitle>
+
+<Banner Title="Praesidium" />
+
+<div class="pr-grid">
+	@foreach (PrLid member in prLeden)
+	{
+		<Member PrLid="member" />
+	}
+</div>

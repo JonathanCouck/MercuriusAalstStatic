@@ -1,0 +1,51 @@
+.event-card[b-v1mfucrve2] {
+    max-width: 500px;
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: 0px 5px 10px #808080;
+    transition: all 0.1s ease-in-out;
+    margin: 0 auto;
+}
+
+.event-card:hover[b-v1mfucrve2] {
+    cursor: pointer;
+    transform: scale(1.05);
+    color: inherit;
+}
+
+.event-card:not(hover)[b-v1mfucrve2] {
+    cursor: default;
+    transform: scale(1);
+}
+
+.event-image[b-v1mfucrve2] {
+    width: 100.05%;
+    object-fit: cover;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.event-text[b-v1mfucrve2] {
+    padding: 1rem 2rem 2rem 2rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .container-xxl[b-v1mfucrve2] {
+        padding: 0;
+    }
+
+    .event-card[b-v1mfucrve2] {
+        min-width: none;
+        max-width: none;
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .event-card[b-v1mfucrve2], .event-image[b-v1mfucrve2] {
+        border-radius: 0;
+    }
+
+    .event-text[b-v1mfucrve2] {
+        padding: 1rem;
+    }
+}

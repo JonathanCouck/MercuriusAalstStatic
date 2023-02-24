@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = MercuriusAalstWebsite
+build_property.RootNamespace = MercuriusAalstWebsite
+build_property.ProjectDir = C:\Users\jonat\Documents\Projecten\MercuriusAalstWebsite\MercuriusAalstWebsite\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jonat\Documents\Projecten\MercuriusAalstWebsite\MercuriusAalstWebsite
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Pages/Clublied/Clublied.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2x1YmxpZWRcQ2x1YmxpZWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Pages/Geschiedenis/Geschiedenis.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VzY2hpZWRlbmlzXEdlc2NoaWVkZW5pcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Pages/Praesidium/MemberDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJhZXNpZGl1bVxNZW1iZXJEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Shared/TitledSection.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRpdGxlZFNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Pages/Home/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-tdnq5o44zu
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Pages/Kalender/Event.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2FsZW5kZXJcRXZlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-v1mfucrve2
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Pages/Kalender/Kalender.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2FsZW5kZXJcS2FsZW5kZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-lskb6qbctc
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Pages/Media/Media.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWFcTWVkaWEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5n7cbosoi6
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Pages/Praesidium/Member.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJhZXNpZGl1bVxNZW1iZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5bjror4kqy
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Pages/Praesidium/Praesidium.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJhZXNpZGl1bVxQcmFlc2lkaXVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-fd4xvglsy4
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Shared/Banner.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJhbm5lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-uoxvm1valu
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Shared/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-qecol2rn8a
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1hz2me8hx0
+
+[C:/Users/jonat/Documents/Projecten/MercuriusAalstWebsite/MercuriusAalstWebsite/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wq18hbiha2
