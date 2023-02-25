@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "MercuriusAalstWebsite.dll": "sha256-1lqjZgRGgHgZxvrOIEOfl7YktjntCBw\/uWkdHOh+pIQ=",
+      "MercuriusAalstWebsite.dll": "sha256-i5csUhfv21Otz7p8Ku\/INZxKZ6Z52mjP0nzBF+Hglmw=",
       "Microsoft.AspNetCore.Components.dll": "sha256-XNUnoF7WFxw4vB179Cc1mQgGGxcP169rgR86QFWn6K0=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-mMAvME0N3JYHVEVcs\/l3o685lcq\/fJC6xr3mJ3iNAGY=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-536N0bY7041ecRIbuOpw8b\/dj7W17\/TqwblXSyutAc4=",
